@@ -1,0 +1,93 @@
+.error{
+    font-size: 500px;
+    text-align: center;
+    position: fixed;
+    left: 343px;
+
+}
+
+
+
+.logo{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   position: relative;
+    width: 200px;
+    height: 200px;
+
+    
+}
+
+
+
+.navigator{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    align-items: center;
+    position: relative;
+    bottom: ;
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin: 0px 30px;
+    
+    
+    
+}
+
+        .nav1{
+            display:flex;
+            box-shadow: 0 0 0 2px;
+        }
+            .nav1:hover{
+                background-color: grey;
+            }
+
+        .nav2{
+            display:flex;
+            box-shadow: 0 0 0 2px;
+        }
+            .nav2:hover{
+                background-color: grey;
+            }
+
+        .nav3{
+            display:flex;
+            box-shadow: 0 0 0 2px;
+        }
+            .nav3:hover{
+                background-color: grey;
+            }
+
+ 
+.posts{
+    display: border-box;
+    border: 2px solid ;
+
+
+}
+
+.register{
+    display: flex;
+
+}
+
+.create {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 255px;
+    
+}
+
+.logout{
+    display: flex;
+    position: relative;
+    top: 400px;
+    left: 924px;
+   
+}
